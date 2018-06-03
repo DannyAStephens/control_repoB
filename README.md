@@ -1,2 +1,2 @@
 # control_repoB
-review of puppet
+this is a review of puppet
